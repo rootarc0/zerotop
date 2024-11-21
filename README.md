@@ -8,3 +8,7 @@ Gives a list of processes and gives the ability to kill the process by pressing 
 
 # Example
 ![изображение](https://github.com/user-attachments/assets/b7a89e55-9465-4fb3-8b06-a6712c45857a)
+
+# How to use
+
+./zerotop.sh
